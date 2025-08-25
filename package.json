@@ -1,0 +1,24 @@
+{
+  "name": "local-opensearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "db:setup": "tsx database/index.ts",
+    "db:start": "docker-compose up -d"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@8.6.0+sha512.b8c69619796f1be9b934825a47824411e9c285b83ed403f8cd5a6ab383c4719838b87fa55cc4ddfd7fe58ab29903e4c2d30d1dfbefb2ddbb4835cc322acbb000",
+  "dependencies": {
+    "@opensearch-project/opensearch": "^3.5.1",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "tsx": "^4.20.4"
+  }
+}

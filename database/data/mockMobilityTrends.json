@@ -1,0 +1,1428 @@
+[
+  {
+    "candidateId": 1234,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-01-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "bar-manager"
+      },
+      {
+        "startDate": "2023-01-01",
+        "endDate": "2024-01-01",
+        "normalisedRoleTitleId": "bar-tender"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 1234,
+        "locationLevel": "SEEKArea",
+        "created": "2025-01-10T02:47:06.983Z",
+        "lastUpdated": "2025-01-10T03:28:33.393Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-1001",
+        "seekAreaId": "AREA-101",
+        "suburbId": "SUB-1234"
+      },
+      {
+        "locationID": 3456,
+        "locationLevel": "SEEKArea",
+        "created": "2024-01-10T02:47:06.983Z",
+        "lastUpdated": "2024-01-10T03:28:33.393Z",
+        "countryId": 1,
+        "stateId": "VIC",
+        "seekLocationId": "SEEK-1002",
+        "seekAreaId": "AREA-102",
+        "suburbId": "SUB-3456"
+      }
+    ]
+  },
+  {
+    "candidateId": 1235,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2023-06-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "software-engineer"
+      },
+      {
+        "startDate": "2022-01-01",
+        "endDate": "2023-06-01",
+        "normalisedRoleTitleId": "junior-developer"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 2001,
+        "locationLevel": "City",
+        "created": "2024-08-15T10:30:22.123Z",
+        "lastUpdated": "2025-01-12T14:22:11.456Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-2001",
+        "seekAreaId": "AREA-201",
+        "suburbId": "SUB-2001"
+      }
+    ]
+  },
+  {
+    "candidateId": 1236,
+    "approachable": false,
+    "workHistory": [
+      {
+        "startDate": "2024-03-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "bar-manager"
+      },
+      {
+        "startDate": "2023-08-01",
+        "endDate": "2024-03-01",
+        "normalisedRoleTitleId": "assistant-manager"
+      },
+      {
+        "startDate": "2022-05-01",
+        "endDate": "2023-08-01",
+        "normalisedRoleTitleId": "bar-tender"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 1234,
+        "locationLevel": "SEEKArea",
+        "created": "2024-03-01T08:15:30.789Z",
+        "lastUpdated": "2024-12-20T16:45:22.345Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-1001",
+        "seekAreaId": "AREA-101",
+        "suburbId": "SUB-1234"
+      },
+      {
+        "locationID": 4567,
+        "locationLevel": "Suburb",
+        "created": "2023-11-10T12:22:45.567Z",
+        "lastUpdated": "2024-01-05T09:30:15.123Z",
+        "countryId": 1,
+        "stateId": "QLD",
+        "seekLocationId": "SEEK-1003",
+        "seekAreaId": "AREA-103",
+        "suburbId": "SUB-4567"
+      }
+    ]
+  },
+  {
+    "candidateId": 1237,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-07-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "data-scientist"
+      },
+      {
+        "startDate": "2023-02-01",
+        "endDate": "2024-07-01",
+        "normalisedRoleTitleId": "data-analyst"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 2001,
+        "locationLevel": "City",
+        "created": "2024-07-01T11:45:33.222Z",
+        "lastUpdated": "2024-11-30T17:22:44.888Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-2001",
+        "seekAreaId": "AREA-201",
+        "suburbId": "SUB-2001"
+      }
+    ]
+  },
+  {
+    "candidateId": 1238,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2023-09-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "marketing-manager"
+      },
+      {
+        "startDate": "2022-03-01",
+        "endDate": "2023-09-01",
+        "normalisedRoleTitleId": "marketing-coordinator"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 3456,
+        "locationLevel": "SEEKArea",
+        "created": "2023-09-01T14:30:45.678Z",
+        "lastUpdated": "2024-10-15T10:15:30.234Z",
+        "countryId": 1,
+        "stateId": "VIC",
+        "seekLocationId": "SEEK-1002",
+        "seekAreaId": "AREA-102",
+        "suburbId": "SUB-3456"
+      },
+      {
+        "locationID": 5678,
+        "locationLevel": "Region",
+        "created": "2022-12-20T16:45:22.345Z",
+        "lastUpdated": "2023-08-10T13:20:15.567Z",
+        "countryId": 1,
+        "stateId": "WA",
+        "seekLocationId": "SEEK-1004",
+        "seekAreaId": "AREA-104",
+        "suburbId": "SUB-5678"
+      }
+    ]
+  },
+  {
+    "candidateId": 1239,
+    "approachable": false,
+    "workHistory": [
+      {
+        "startDate": "2024-02-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "software-engineer"
+      },
+      {
+        "startDate": "2023-01-01",
+        "endDate": "2024-02-01",
+        "normalisedRoleTitleId": "full-stack-developer"
+      },
+      {
+        "startDate": "2021-06-01",
+        "endDate": "2023-01-01",
+        "normalisedRoleTitleId": "junior-developer"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 2001,
+        "locationLevel": "City",
+        "created": "2024-02-01T09:30:15.123Z",
+        "lastUpdated": "2024-12-25T20:45:30.789Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-2001",
+        "seekAreaId": "AREA-201",
+        "suburbId": "SUB-2001"
+      }
+    ]
+  },
+  {
+    "candidateId": 1240,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-05-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "restaurant-manager"
+      },
+      {
+        "startDate": "2023-10-01",
+        "endDate": "2024-05-01",
+        "normalisedRoleTitleId": "bar-manager"
+      },
+      {
+        "startDate": "2022-08-01",
+        "endDate": "2023-10-01",
+        "normalisedRoleTitleId": "bar-tender"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 1234,
+        "locationLevel": "SEEKArea",
+        "created": "2024-05-01T15:20:40.456Z",
+        "lastUpdated": "2024-11-18T12:35:25.678Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-1001",
+        "seekAreaId": "AREA-101",
+        "suburbId": "SUB-1234"
+      },
+      {
+        "locationID": 6789,
+        "locationLevel": "Suburb",
+        "created": "2023-05-15T11:40:20.890Z",
+        "lastUpdated": "2024-03-22T14:25:35.123Z",
+        "countryId": 1,
+        "stateId": "SA",
+        "seekLocationId": "SEEK-1005",
+        "seekAreaId": "AREA-105",
+        "suburbId": "SUB-6789"
+      }
+    ]
+  },
+  {
+    "candidateId": 1241,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2023-11-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "ux-designer"
+      },
+      {
+        "startDate": "2022-07-01",
+        "endDate": "2023-11-01",
+        "normalisedRoleTitleId": "graphic-designer"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 7890,
+        "locationLevel": "City",
+        "created": "2023-11-01T13:15:55.234Z",
+        "lastUpdated": "2024-09-30T18:40:10.567Z",
+        "countryId": 1,
+        "stateId": "VIC",
+        "seekLocationId": "SEEK-2002",
+        "seekAreaId": "AREA-202",
+        "suburbId": "SUB-7890"
+      }
+    ]
+  },
+  {
+    "candidateId": 1242,
+    "approachable": false,
+    "workHistory": [
+      {
+        "startDate": "2024-08-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "project-manager"
+      },
+      {
+        "startDate": "2023-04-01",
+        "endDate": "2024-08-01",
+        "normalisedRoleTitleId": "team-lead"
+      },
+      {
+        "startDate": "2022-01-01",
+        "endDate": "2023-04-01",
+        "normalisedRoleTitleId": "software-engineer"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 2001,
+        "locationLevel": "City",
+        "created": "2024-08-01T10:25:30.345Z",
+        "lastUpdated": "2024-12-15T16:50:45.678Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-2001",
+        "seekAreaId": "AREA-201",
+        "suburbId": "SUB-2001"
+      },
+      {
+        "locationID": 8901,
+        "locationLevel": "Region",
+        "created": "2023-01-20T09:10:25.456Z",
+        "lastUpdated": "2024-06-10T11:30:40.789Z",
+        "countryId": 1,
+        "stateId": "TAS",
+        "seekLocationId": "SEEK-1006",
+        "seekAreaId": "AREA-106",
+        "suburbId": "SUB-8901"
+      }
+    ]
+  },
+  {
+    "candidateId": 1243,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2023-12-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "data-analyst"
+      },
+      {
+        "startDate": "2022-09-01",
+        "endDate": "2023-12-01",
+        "normalisedRoleTitleId": "business-analyst"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 3456,
+        "locationLevel": "SEEKArea",
+        "created": "2023-12-01T14:40:20.567Z",
+        "lastUpdated": "2024-08-25T12:15:35.890Z",
+        "countryId": 1,
+        "stateId": "VIC",
+        "seekLocationId": "SEEK-1002",
+        "seekAreaId": "AREA-102",
+        "suburbId": "SUB-3456"
+      }
+    ]
+  },
+  {
+    "candidateId": 1244,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-06-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "chef"
+      },
+      {
+        "startDate": "2023-03-01",
+        "endDate": "2024-06-01",
+        "normalisedRoleTitleId": "sous-chef"
+      },
+      {
+        "startDate": "2022-10-01",
+        "endDate": "2023-03-01",
+        "normalisedRoleTitleId": "cook"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 9012,
+        "locationLevel": "Suburb",
+        "created": "2024-06-01T16:30:45.123Z",
+        "lastUpdated": "2024-10-20T19:25:50.456Z",
+        "countryId": 1,
+        "stateId": "NT",
+        "seekLocationId": "SEEK-1007",
+        "seekAreaId": "AREA-107",
+        "suburbId": "SUB-9012"
+      },
+      {
+        "locationID": 1234,
+        "locationLevel": "SEEKArea",
+        "created": "2023-08-15T12:45:30.789Z",
+        "lastUpdated": "2024-02-28T15:20:25.234Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-1001",
+        "seekAreaId": "AREA-101",
+        "suburbId": "SUB-1234"
+      }
+    ]
+  },
+  {
+    "candidateId": 1245,
+    "approachable": false,
+    "workHistory": [
+      {
+        "startDate": "2024-04-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "sales-manager"
+      },
+      {
+        "startDate": "2023-07-01",
+        "endDate": "2024-04-01",
+        "normalisedRoleTitleId": "sales-representative"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 4567,
+        "locationLevel": "Suburb",
+        "created": "2024-04-01T11:20:15.345Z",
+        "lastUpdated": "2024-11-05T14:35:40.678Z",
+        "countryId": 1,
+        "stateId": "QLD",
+        "seekLocationId": "SEEK-1003",
+        "seekAreaId": "AREA-103",
+        "suburbId": "SUB-4567"
+      }
+    ]
+  },
+  {
+    "candidateId": 1246,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2023-05-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "accountant"
+      },
+      {
+        "startDate": "2022-02-01",
+        "endDate": "2023-05-01",
+        "normalisedRoleTitleId": "bookkeeper"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 2001,
+        "locationLevel": "City",
+        "created": "2023-05-01T13:55:25.567Z",
+        "lastUpdated": "2024-07-12T17:40:35.890Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-2001",
+        "seekAreaId": "AREA-201",
+        "suburbId": "SUB-2001"
+      },
+      {
+        "locationID": 5678,
+        "locationLevel": "Region",
+        "created": "2022-11-30T10:25:50.123Z",
+        "lastUpdated": "2023-09-18T13:45:15.456Z",
+        "countryId": 1,
+        "stateId": "WA",
+        "seekLocationId": "SEEK-1004",
+        "seekAreaId": "AREA-104",
+        "suburbId": "SUB-5678"
+      }
+    ]
+  },
+  {
+    "candidateId": 1247,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-09-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "bar-tender"
+      },
+      {
+        "startDate": "2023-06-01",
+        "endDate": "2024-09-01",
+        "normalisedRoleTitleId": "waiter"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 3456,
+        "locationLevel": "SEEKArea",
+        "created": "2024-09-01T18:10:30.789Z",
+        "lastUpdated": "2024-12-10T21:25:45.123Z",
+        "countryId": 1,
+        "stateId": "VIC",
+        "seekLocationId": "SEEK-1002",
+        "seekAreaId": "AREA-102",
+        "suburbId": "SUB-3456"
+      }
+    ]
+  },
+  {
+    "candidateId": 1248,
+    "approachable": false,
+    "workHistory": [
+      {
+        "startDate": "2024-01-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "hr-manager"
+      },
+      {
+        "startDate": "2022-11-01",
+        "endDate": "2024-01-15",
+        "normalisedRoleTitleId": "hr-coordinator"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 7890,
+        "locationLevel": "City",
+        "created": "2024-01-15T09:45:20.456Z",
+        "lastUpdated": "2024-06-20T14:30:55.789Z",
+        "countryId": 1,
+        "stateId": "VIC",
+        "seekLocationId": "SEEK-2002",
+        "seekAreaId": "AREA-202",
+        "suburbId": "SUB-7890"
+      }
+    ]
+  },
+  {
+    "candidateId": 1249,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2023-08-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "data-scientist"
+      },
+      {
+        "startDate": "2022-04-01",
+        "endDate": "2023-08-01",
+        "normalisedRoleTitleId": "data-analyst"
+      },
+      {
+        "startDate": "2021-01-01",
+        "endDate": "2022-04-01",
+        "normalisedRoleTitleId": "research-assistant"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 2001,
+        "locationLevel": "City",
+        "created": "2023-08-01T15:30:40.234Z",
+        "lastUpdated": "2024-05-15T18:45:25.567Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-2001",
+        "seekAreaId": "AREA-201",
+        "suburbId": "SUB-2001"
+      }
+    ]
+  },
+  {
+    "candidateId": 1250,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-10-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "nurse"
+      },
+      {
+        "startDate": "2023-01-01",
+        "endDate": "2024-10-01",
+        "normalisedRoleTitleId": "nursing-assistant"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 8901,
+        "locationLevel": "Region",
+        "created": "2024-10-01T12:20:35.678Z",
+        "lastUpdated": "2024-12-01T16:55:50.901Z",
+        "countryId": 1,
+        "stateId": "TAS",
+        "seekLocationId": "SEEK-1006",
+        "seekAreaId": "AREA-106",
+        "suburbId": "SUB-8901"
+      },
+      {
+        "locationID": 1234,
+        "locationLevel": "SEEKArea",
+        "created": "2023-07-20T14:35:25.345Z",
+        "lastUpdated": "2024-08-30T11:40:10.678Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-1001",
+        "seekAreaId": "AREA-101",
+        "suburbId": "SUB-1234"
+      }
+    ]
+  },
+  {
+    "candidateId": 1251,
+    "approachable": false,
+    "workHistory": [
+      {
+        "startDate": "2023-10-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "teacher"
+      },
+      {
+        "startDate": "2022-08-01",
+        "endDate": "2023-10-01",
+        "normalisedRoleTitleId": "substitute-teacher"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 6789,
+        "locationLevel": "Suburb",
+        "created": "2023-10-01T10:15:45.789Z",
+        "lastUpdated": "2024-04-25T13:30:20.123Z",
+        "countryId": 1,
+        "stateId": "SA",
+        "seekLocationId": "SEEK-1005",
+        "seekAreaId": "AREA-105",
+        "suburbId": "SUB-6789"
+      }
+    ]
+  },
+  {
+    "candidateId": 1252,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-03-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "marketing-manager"
+      },
+      {
+        "startDate": "2023-05-01",
+        "endDate": "2024-03-15",
+        "normalisedRoleTitleId": "digital-marketer"
+      },
+      {
+        "startDate": "2022-06-01",
+        "endDate": "2023-05-01",
+        "normalisedRoleTitleId": "marketing-coordinator"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 3456,
+        "locationLevel": "SEEKArea",
+        "created": "2024-03-15T11:25:50.456Z",
+        "lastUpdated": "2024-09-10T15:40:35.789Z",
+        "countryId": 1,
+        "stateId": "VIC",
+        "seekLocationId": "SEEK-1002",
+        "seekAreaId": "AREA-102",
+        "suburbId": "SUB-3456"
+      },
+      {
+        "locationID": 9012,
+        "locationLevel": "Suburb",
+        "created": "2023-02-10T16:50:15.234Z",
+        "lastUpdated": "2024-01-20T12:25:40.567Z",
+        "countryId": 1,
+        "stateId": "NT",
+        "seekLocationId": "SEEK-1007",
+        "seekAreaId": "AREA-107",
+        "suburbId": "SUB-9012"
+      }
+    ]
+  },
+  {
+    "candidateId": 1253,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-07-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "financial-analyst"
+      },
+      {
+        "startDate": "2023-03-01",
+        "endDate": "2024-07-15",
+        "normalisedRoleTitleId": "junior-analyst"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 7890,
+        "locationLevel": "City",
+        "created": "2024-07-15T14:10:25.678Z",
+        "lastUpdated": "2024-11-22T17:55:40.901Z",
+        "countryId": 1,
+        "stateId": "VIC",
+        "seekLocationId": "SEEK-2002",
+        "seekAreaId": "AREA-202",
+        "suburbId": "SUB-7890"
+      }
+    ]
+  },
+  {
+    "candidateId": 1254,
+    "approachable": false,
+    "workHistory": [
+      {
+        "startDate": "2023-04-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "software-engineer"
+      },
+      {
+        "startDate": "2022-01-01",
+        "endDate": "2023-04-15",
+        "normalisedRoleTitleId": "backend-developer"
+      },
+      {
+        "startDate": "2021-03-01",
+        "endDate": "2022-01-01",
+        "normalisedRoleTitleId": "junior-developer"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 2001,
+        "locationLevel": "City",
+        "created": "2023-04-15T13:35:45.234Z",
+        "lastUpdated": "2024-03-05T16:20:30.567Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-2001",
+        "seekAreaId": "AREA-201",
+        "suburbId": "SUB-2001"
+      }
+    ]
+  },
+  {
+    "candidateId": 1255,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-11-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "bar-manager"
+      },
+      {
+        "startDate": "2024-02-01",
+        "endDate": "2024-11-01",
+        "normalisedRoleTitleId": "assistant-manager"
+      },
+      {
+        "startDate": "2023-09-01",
+        "endDate": "2024-02-01",
+        "normalisedRoleTitleId": "bar-tender"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 1234,
+        "locationLevel": "SEEKArea",
+        "created": "2024-11-01T19:45:35.123Z",
+        "lastUpdated": "2024-12-20T22:30:50.456Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-1001",
+        "seekAreaId": "AREA-101",
+        "suburbId": "SUB-1234"
+      }
+    ]
+  },
+  {
+    "candidateId": 1256,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-05-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "product-manager"
+      },
+      {
+        "startDate": "2023-08-01",
+        "endDate": "2024-05-15",
+        "normalisedRoleTitleId": "product-owner"
+      },
+      {
+        "startDate": "2022-12-01",
+        "endDate": "2023-08-01",
+        "normalisedRoleTitleId": "business-analyst"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 4567,
+        "locationLevel": "Suburb",
+        "created": "2024-05-15T12:40:20.789Z",
+        "lastUpdated": "2024-10-08T15:25:45.234Z",
+        "countryId": 1,
+        "stateId": "QLD",
+        "seekLocationId": "SEEK-1003",
+        "seekAreaId": "AREA-103",
+        "suburbId": "SUB-4567"
+      },
+      {
+        "locationID": 2001,
+        "locationLevel": "City",
+        "created": "2023-06-20T14:55:30.567Z",
+        "lastUpdated": "2024-07-03T18:10:15.890Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-2001",
+        "seekAreaId": "AREA-201",
+        "suburbId": "SUB-2001"
+      }
+    ]
+  },
+  {
+    "candidateId": 1257,
+    "approachable": false,
+    "workHistory": [
+      {
+        "startDate": "2023-07-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "electrician"
+      },
+      {
+        "startDate": "2022-05-01",
+        "endDate": "2023-07-01",
+        "normalisedRoleTitleId": "apprentice-electrician"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 5678,
+        "locationLevel": "Region",
+        "created": "2023-07-01T08:30:15.345Z",
+        "lastUpdated": "2024-02-14T11:45:40.678Z",
+        "countryId": 1,
+        "stateId": "WA",
+        "seekLocationId": "SEEK-1004",
+        "seekAreaId": "AREA-104",
+        "suburbId": "SUB-5678"
+      }
+    ]
+  },
+  {
+    "candidateId": 1258,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-08-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "data-analyst"
+      },
+      {
+        "startDate": "2023-11-01",
+        "endDate": "2024-08-15",
+        "normalisedRoleTitleId": "junior-analyst"
+      },
+      {
+        "startDate": "2023-02-01",
+        "endDate": "2023-11-01",
+        "normalisedRoleTitleId": "intern"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 3456,
+        "locationLevel": "SEEKArea",
+        "created": "2024-08-15T16:20:45.567Z",
+        "lastUpdated": "2024-12-12T19:35:30.890Z",
+        "countryId": 1,
+        "stateId": "VIC",
+        "seekLocationId": "SEEK-1002",
+        "seekAreaId": "AREA-102",
+        "suburbId": "SUB-3456"
+      }
+    ]
+  },
+  {
+    "candidateId": 1259,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2023-09-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "social-worker"
+      },
+      {
+        "startDate": "2022-07-01",
+        "endDate": "2023-09-15",
+        "normalisedRoleTitleId": "case-worker"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 8901,
+        "locationLevel": "Region",
+        "created": "2023-09-15T13:25:50.123Z",
+        "lastUpdated": "2024-06-30T16:40:25.456Z",
+        "countryId": 1,
+        "stateId": "TAS",
+        "seekLocationId": "SEEK-1006",
+        "seekAreaId": "AREA-106",
+        "suburbId": "SUB-8901"
+      },
+      {
+        "locationID": 6789,
+        "locationLevel": "Suburb",
+        "created": "2022-12-05T10:15:35.789Z",
+        "lastUpdated": "2023-05-20T14:30:10.234Z",
+        "countryId": 1,
+        "stateId": "SA",
+        "seekLocationId": "SEEK-1005",
+        "seekAreaId": "AREA-105",
+        "suburbId": "SUB-6789"
+      }
+    ]
+  },
+  {
+    "candidateId": 1260,
+    "approachable": false,
+    "workHistory": [
+      {
+        "startDate": "2024-06-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "graphic-designer"
+      },
+      {
+        "startDate": "2023-01-01",
+        "endDate": "2024-06-15",
+        "normalisedRoleTitleId": "design-intern"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 7890,
+        "locationLevel": "City",
+        "created": "2024-06-15T15:50:40.345Z",
+        "lastUpdated": "2024-09-28T18:25:55.678Z",
+        "countryId": 1,
+        "stateId": "VIC",
+        "seekLocationId": "SEEK-2002",
+        "seekAreaId": "AREA-202",
+        "suburbId": "SUB-7890"
+      }
+    ]
+  },
+  {
+    "candidateId": 1261,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-02-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "operations-manager"
+      },
+      {
+        "startDate": "2023-06-01",
+        "endDate": "2024-02-15",
+        "normalisedRoleTitleId": "team-lead"
+      },
+      {
+        "startDate": "2022-10-01",
+        "endDate": "2023-06-01",
+        "normalisedRoleTitleId": "supervisor"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 2001,
+        "locationLevel": "City",
+        "created": "2024-02-15T11:15:25.789Z",
+        "lastUpdated": "2024-08-18T14:40:50.123Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-2001",
+        "seekAreaId": "AREA-201",
+        "suburbId": "SUB-2001"
+      },
+      {
+        "locationID": 9012,
+        "locationLevel": "Suburb",
+        "created": "2023-03-10T13:55:35.456Z",
+        "lastUpdated": "2024-01-25T17:20:10.789Z",
+        "countryId": 1,
+        "stateId": "NT",
+        "seekLocationId": "SEEK-1007",
+        "seekAreaId": "AREA-107",
+        "suburbId": "SUB-9012"
+      }
+    ]
+  },
+  {
+    "candidateId": 1262,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2023-12-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "mechanical-engineer"
+      },
+      {
+        "startDate": "2022-08-01",
+        "endDate": "2023-12-15",
+        "normalisedRoleTitleId": "junior-engineer"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 5678,
+        "locationLevel": "Region",
+        "created": "2023-12-15T12:35:15.234Z",
+        "lastUpdated": "2024-07-22T15:50:40.567Z",
+        "countryId": 1,
+        "stateId": "WA",
+        "seekLocationId": "SEEK-1004",
+        "seekAreaId": "AREA-104",
+        "suburbId": "SUB-5678"
+      }
+    ]
+  },
+  {
+    "candidateId": 1263,
+    "approachable": false,
+    "workHistory": [
+      {
+        "startDate": "2024-09-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "content-writer"
+      },
+      {
+        "startDate": "2023-04-01",
+        "endDate": "2024-09-15",
+        "normalisedRoleTitleId": "copywriter"
+      },
+      {
+        "startDate": "2022-11-01",
+        "endDate": "2023-04-01",
+        "normalisedRoleTitleId": "freelance-writer"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 3456,
+        "locationLevel": "SEEKArea",
+        "created": "2024-09-15T17:25:45.678Z",
+        "lastUpdated": "2024-11-30T20:40:30.901Z",
+        "countryId": 1,
+        "stateId": "VIC",
+        "seekLocationId": "SEEK-1002",
+        "seekAreaId": "AREA-102",
+        "suburbId": "SUB-3456"
+      }
+    ]
+  },
+  {
+    "candidateId": 1264,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-04-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "pharmacist"
+      },
+      {
+        "startDate": "2023-10-01",
+        "endDate": "2024-04-15",
+        "normalisedRoleTitleId": "pharmacy-assistant"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 4567,
+        "locationLevel": "Suburb",
+        "created": "2024-04-15T10:40:30.123Z",
+        "lastUpdated": "2024-12-08T13:55:45.456Z",
+        "countryId": 1,
+        "stateId": "QLD",
+        "seekLocationId": "SEEK-1003",
+        "seekAreaId": "AREA-103",
+        "suburbId": "SUB-4567"
+      },
+      {
+        "locationID": 1234,
+        "locationLevel": "SEEKArea",
+        "created": "2023-12-20T15:20:25.789Z",
+        "lastUpdated": "2024-05-10T18:35:50.234Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-1001",
+        "seekAreaId": "AREA-101",
+        "suburbId": "SUB-1234"
+      }
+    ]
+  },
+  {
+    "candidateId": 1265,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2023-06-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "customer-service-representative"
+      },
+      {
+        "startDate": "2022-09-01",
+        "endDate": "2023-06-15",
+        "normalisedRoleTitleId": "call-center-agent"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 6789,
+        "locationLevel": "Suburb",
+        "created": "2023-06-15T14:30:55.567Z",
+        "lastUpdated": "2024-03-12T17:45:20.890Z",
+        "countryId": 1,
+        "stateId": "SA",
+        "seekLocationId": "SEEK-1005",
+        "seekAreaId": "AREA-105",
+        "suburbId": "SUB-6789"
+      }
+    ]
+  },
+  {
+    "candidateId": 1266,
+    "approachable": false,
+    "workHistory": [
+      {
+        "startDate": "2024-10-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "physical-therapist"
+      },
+      {
+        "startDate": "2023-05-01",
+        "endDate": "2024-10-15",
+        "normalisedRoleTitleId": "therapy-assistant"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 8901,
+        "locationLevel": "Region",
+        "created": "2024-10-15T16:45:40.345Z",
+        "lastUpdated": "2024-12-05T19:30:25.678Z",
+        "countryId": 1,
+        "stateId": "TAS",
+        "seekLocationId": "SEEK-1006",
+        "seekAreaId": "AREA-106",
+        "suburbId": "SUB-8901"
+      }
+    ]
+  },
+  {
+    "candidateId": 1267,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-01-30",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "web-developer"
+      },
+      {
+        "startDate": "2023-07-01",
+        "endDate": "2024-01-30",
+        "normalisedRoleTitleId": "frontend-developer"
+      },
+      {
+        "startDate": "2022-12-01",
+        "endDate": "2023-07-01",
+        "normalisedRoleTitleId": "junior-developer"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 2001,
+        "locationLevel": "City",
+        "created": "2024-01-30T12:25:35.789Z",
+        "lastUpdated": "2024-06-15T15:40:50.123Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-2001",
+        "seekAreaId": "AREA-201",
+        "suburbId": "SUB-2001"
+      }
+    ]
+  },
+  {
+    "candidateId": 1268,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2023-11-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "logistics-coordinator"
+      },
+      {
+        "startDate": "2022-06-01",
+        "endDate": "2023-11-15",
+        "normalisedRoleTitleId": "warehouse-supervisor"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 7890,
+        "locationLevel": "City",
+        "created": "2023-11-15T11:50:20.456Z",
+        "lastUpdated": "2024-04-28T14:35:45.789Z",
+        "countryId": 1,
+        "stateId": "VIC",
+        "seekLocationId": "SEEK-2002",
+        "seekAreaId": "AREA-202",
+        "suburbId": "SUB-7890"
+      },
+      {
+        "locationID": 5678,
+        "locationLevel": "Region",
+        "created": "2022-09-25T16:15:30.234Z",
+        "lastUpdated": "2023-08-10T19:40:55.567Z",
+        "countryId": 1,
+        "stateId": "WA",
+        "seekLocationId": "SEEK-1004",
+        "seekAreaId": "AREA-104",
+        "suburbId": "SUB-5678"
+      }
+    ]
+  },
+  {
+    "candidateId": 1269,
+    "approachable": false,
+    "workHistory": [
+      {
+        "startDate": "2024-07-30",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "research-scientist"
+      },
+      {
+        "startDate": "2023-02-01",
+        "endDate": "2024-07-30",
+        "normalisedRoleTitleId": "lab-technician"
+      },
+      {
+        "startDate": "2022-03-01",
+        "endDate": "2023-02-01",
+        "normalisedRoleTitleId": "research-assistant"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 9012,
+        "locationLevel": "Suburb",
+        "created": "2024-07-30T13:20:45.678Z",
+        "lastUpdated": "2024-10-25T16:55:30.901Z",
+        "countryId": 1,
+        "stateId": "NT",
+        "seekLocationId": "SEEK-1007",
+        "seekAreaId": "AREA-107",
+        "suburbId": "SUB-9012"
+      }
+    ]
+  },
+  {
+    "candidateId": 1270,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-12-01",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "bar-tender"
+      },
+      {
+        "startDate": "2024-03-01",
+        "endDate": "2024-12-01",
+        "normalisedRoleTitleId": "server"
+      },
+      {
+        "startDate": "2023-10-01",
+        "endDate": "2024-03-01",
+        "normalisedRoleTitleId": "host"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 3456,
+        "locationLevel": "SEEKArea",
+        "created": "2024-12-01T18:35:50.234Z",
+        "lastUpdated": "2024-12-20T21:50:15.567Z",
+        "countryId": 1,
+        "stateId": "VIC",
+        "seekLocationId": "SEEK-1002",
+        "seekAreaId": "AREA-102",
+        "suburbId": "SUB-3456"
+      },
+      {
+        "locationID": 1234,
+        "locationLevel": "SEEKArea",
+        "created": "2024-01-15T12:40:25.890Z",
+        "lastUpdated": "2024-11-08T15:25:40.123Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-1001",
+        "seekAreaId": "AREA-101",
+        "suburbId": "SUB-1234"
+      }
+    ]
+  },
+  {
+    "candidateId": 1271,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2023-08-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "civil-engineer"
+      },
+      {
+        "startDate": "2022-01-01",
+        "endDate": "2023-08-15",
+        "normalisedRoleTitleId": "engineering-intern"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 4567,
+        "locationLevel": "Suburb",
+        "created": "2023-08-15T15:45:35.345Z",
+        "lastUpdated": "2024-05-22T18:30:50.678Z",
+        "countryId": 1,
+        "stateId": "QLD",
+        "seekLocationId": "SEEK-1003",
+        "seekAreaId": "AREA-103",
+        "suburbId": "SUB-4567"
+      }
+    ]
+  },
+  {
+    "candidateId": 1272,
+    "approachable": false,
+    "workHistory": [
+      {
+        "startDate": "2024-11-15",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "event-coordinator"
+      },
+      {
+        "startDate": "2023-12-01",
+        "endDate": "2024-11-15",
+        "normalisedRoleTitleId": "marketing-assistant"
+      },
+      {
+        "startDate": "2023-04-01",
+        "endDate": "2023-12-01",
+        "normalisedRoleTitleId": "admin-assistant"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 6789,
+        "locationLevel": "Suburb",
+        "created": "2024-11-15T14:25:40.789Z",
+        "lastUpdated": "2024-12-18T17:40:25.123Z",
+        "countryId": 1,
+        "stateId": "SA",
+        "seekLocationId": "SEEK-1005",
+        "seekAreaId": "AREA-105",
+        "suburbId": "SUB-6789"
+      },
+      {
+        "locationID": 2001,
+        "locationLevel": "City",
+        "created": "2023-09-10T11:15:30.456Z",
+        "lastUpdated": "2024-08-05T14:50:45.789Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-2001",
+        "seekAreaId": "AREA-201",
+        "suburbId": "SUB-2001"
+      }
+    ]
+  },
+  {
+    "candidateId": 1273,
+    "approachable": true,
+    "workHistory": [
+      {
+        "startDate": "2024-05-30",
+        "endDate": "2099-12-01",
+        "normalisedRoleTitleId": "data-scientist"
+      },
+      {
+        "startDate": "2023-09-01",
+        "endDate": "2024-05-30",
+        "normalisedRoleTitleId": "machine-learning-engineer"
+      },
+      {
+        "startDate": "2022-11-01",
+        "endDate": "2023-09-01",
+        "normalisedRoleTitleId": "data-analyst"
+      }
+    ],
+    "candidateLocations": [
+      {
+        "locationID": 2001,
+        "locationLevel": "City",
+        "created": "2024-05-30T16:30:25.567Z",
+        "lastUpdated": "2024-09-12T19:45:40.890Z",
+        "countryId": 1,
+        "stateId": "NSW",
+        "seekLocationId": "SEEK-2001",
+        "seekAreaId": "AREA-201",
+        "suburbId": "SUB-2001"
+      }
+    ]
+  }
+]
